@@ -30,12 +30,16 @@
 
 ### 📜 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,xml" />
 </p>
 
 ### ⚛️ Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=django,fastapi,react,nodejs,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=odoo,django,fastapi,react,bootstrap" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Owl%20Framework-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
 ### 🛠 Tools & Technologies
