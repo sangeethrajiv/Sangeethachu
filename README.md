@@ -1,4 +1,4 @@
-# Hi there, I'm Sangeeth Chu 👋 ⚡
+# Hi there, I'm Sangeeth 👋 ⚡
 ## Odoo Developer | Web Enthusiast
 
 <picture>
