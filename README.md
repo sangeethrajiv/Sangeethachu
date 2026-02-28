@@ -14,7 +14,6 @@
 - 🔭 **Odoo Developer** building robust enterprise solutions.
 - 🌱 Specialized in **REST APIs**, **FastAPI**, and **Django**.
 - 🛠️ Modern frontend enthusiast using **React** and **Owl**.
-- ⚡ **Antigravity** powered developer! 🦾
 - 🐳 **Docker** & **GitLab** for DevOps.
 
 </td>
